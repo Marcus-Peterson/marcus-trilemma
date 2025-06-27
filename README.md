@@ -30,7 +30,8 @@ This got me thinking, besides there being moral implications (Those we will get 
 
 One thing that came into mind particularly is the concept of a '*Asimov Cascade*'  from Season 5 Episode 2 of Rick & Morty. Rick's family discovers that Rick has been creating replicants (decoys) of their family to protect Rick and his family from enemies that might want to kill them. So instead of killing the 'real family' the enemies would kill the decoys. But the problem arises when said replicants (decoys) start creating their own replicants (Rick being famous for creating robotic systems with sentience, even if said system's only purpose is to pass some butter on a table), and those replicants start creating replicants... And so on... The main issue is the fact that the decoys themselves start to **think** they are the real family. Even though they are woefully unaware that they are artificial systems designed to be cannon fodder. 
 
-![[Pasted image 20250314192747.png]]
+![Preview](Pasted image 20250314192747.png)
+
 *This image is nonsensical and is only here for humorous effects, it's the whiteboard Rick uses to explain an Asimov Cascade*
 
 Should we tell a system that is sentient but unaware of it's true nature that it, is in fact **artificial?** 
